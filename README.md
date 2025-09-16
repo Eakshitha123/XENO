@@ -1,3 +1,4 @@
+Frontend and api documenttation : https://docs.google.com/document/d/1kh8NeLUBygEAcqlO_HtwmjKw6zDbRR74/edit?usp=sharing&ouid=117533686334798686763&rtpof=true&sd=true
 Xenocrm - Customer Campaign Management System
 
 Xenocrm is a CRM web application that allows businesses to manage customer segments, run campaigns, and leverage AI-driven insights. Built with MERN stack, it includes Google OAuth authentication and campaign messaging with delivery logging.
